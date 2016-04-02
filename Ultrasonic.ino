@@ -9,8 +9,6 @@ Ultrasonic ultrasonic(pino_trigger, pino_echo);
 void setup()
 {
   pinMode(led, OUTPUT);
-  Serial.begin(9600);
-  Serial.println("Lendo dados do sensor...");
 }
  
 void loop()
