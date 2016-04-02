@@ -1,1 +1,10 @@
-to do
+Sensor de Aproximação com Arduíno
+
+
+Descrição:
+Criação de um módulo de detecção de aproximação de objetos com Arduino utilizando o sensor ultrasônico HC-SR04.
+O delay do LED indica a distância do objeto, quando mais perto o objeto está do sensor, menor o delay.
+
+
+Demonstração:
+A demonstração do experimento pode ser vista pelo meu vídeo no YouTube:  https://www.youtube.com/watch?v=x_R4wA-L3jM
